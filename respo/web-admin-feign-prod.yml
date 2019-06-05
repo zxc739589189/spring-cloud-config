@@ -14,6 +14,7 @@ spring:
       client:
         url: http://localhost:8084
 
+
 server:
   port: 8760
 
